@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ShobitaBhardwaj
-- 👀 I’m passionate towards coding.
-- 🌱 I’m currently focusing on competitive programming.
-- 📫 You can connect with me on linkedin : www.linkedin.com/in/shobita-bhardwaj-327745264
+👋 Hi, I’m @ShobitaBhardwaj
+👀 I’m passionate towards coding.
+🌱 I’m currently focusing on competitive programming.
+
   
 
 
