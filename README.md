@@ -1,6 +1,4 @@
 👋 Hi, I’m @ShobitaBhardwaj
-👀 I’m passionate towards coding.
-🌱 I’m currently focusing on competitive programming.
 
   
 
